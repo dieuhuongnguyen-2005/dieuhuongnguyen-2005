@@ -1,4 +1,4 @@
-## Hi, I'm Dieu Huong (Alex) Nguyen 👋✌️ Welcome to my GitHub!
+## Hi, I'm Dieu Huong Nguyen 👋 Welcome to my GitHub ✌️
 
 <!--
 **dieuhuongnguyen-2005/dieuhuongnguyen-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
